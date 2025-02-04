@@ -1,0 +1,46 @@
+# Python AI model
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.bak
+*.swp
+*.env
+.env
+venv/
+*.egg-info/
+dist/
+build/
+
+# Go Backend
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+vendor/
+*.log
+
+# Svelte Frontend
+node_modules/
+build/
+*.log
+*.env
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
